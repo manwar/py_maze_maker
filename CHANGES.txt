@@ -1,3 +1,8 @@
+0.0.3 January 18, 2024:
+
+    - Updated README.md file.
+    - Added version info in the script maze-maker.
+
 0.0.2 January 17, 2024:
 
-     Initial release.
+    - Initial release.
